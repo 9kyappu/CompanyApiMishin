@@ -1,0 +1,6 @@
+@CompanyApiMishin_HostAddress = http://localhost:5037
+
+GET {{CompanyApiMishin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
